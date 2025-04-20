@@ -1,7 +1,7 @@
 # Navodita Infotech Cybersecurity Internship
 
 ## Overview
-Welcome to the Navodita Infotech Cybersecurity Internship program! This README serves as a guide to understanding the tasks and responsibilities associated with your internship position.
+Welcome to the Navodita Infotech Cybersecurity Internship program repository! This README serves as a guide to understanding the tasks and responsibilities associated with your internship position.
 
 ## Internship Details
 - **Position:** Cybersecurity Intern
